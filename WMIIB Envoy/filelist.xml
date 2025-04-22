@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="WMIIB Envoy" modversion="1.0.4" corepackage="False" gameversion="1.8.7.0">
+  <Submarine file="%ModDir%/WMIIB Envoy.sub" />
+</contentpackage>
